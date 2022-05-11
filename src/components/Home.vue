@@ -276,7 +276,7 @@ const navigation = [
 const intro = {
     h1: 'Analyzer and Visualizer',
     h2: 'for Performance Tools',
-    p1: 'Support widely used pprof format and more.',
+    p1: 'Support many formats: pprof, JSon, and more.',
     p2: 'Available as a vscode extension.',
 }
 
