@@ -284,15 +284,21 @@ const features = [
         icon: GlobeAltIcon,
     },
     {
-        name: 'Customizable',
-        description: 'EasyView is designed to be highly flexible. It supports customized or personalized analysis and visualization to better fulfill the diverse demands in different domains. This enables EasyView to integrate users\' knowledge or various data mining and machine learning techniques to maximize insights.',
+        name: 'Efficient',
+        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a ~50x speedup over PProf.',
         icon: AdjustmentsIcon,
     },
     {
-        name: 'Portable and Secure',
-        description: 'EasyView is implemented as an IDE/editor\'s plugin with web front techniques (e.g., TypeScript, JavaScript, Web Assembly), which is portable on different platforms such as Linux, Windows, and macOS. Furthermore, EasyView analyzes and visualizes data locally without uploading data to a remote server, which minimizes the security and privacy concerns.',
+        name: 'Portable',
+        description: 'EasyView is implemented with web front techniques, which is portable on different platforms such as Linux, Windows, and macOS. EasyView can be easily integrated into IDEs or code editors as an plugin/extension. Currently EasyView is available in vscode extension market for free download.',
         icon: ShieldCheckIcon,
     }
+    {
+        name: 'Private',
+        description: 'EasyView analyzes and visualizes performance data locally without uploading data to a remote server, which minimizes the security and privacy concerns.',
+        icon: ShieldCheckIcon,
+    } 
+     
 ]
 const blogPosts = [
     {
