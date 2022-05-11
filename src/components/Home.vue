@@ -284,7 +284,7 @@ const intro = {
 const features = [
     {
         name: 'Easy',
-        description: 'EasyView is easy to install, use, and customize. It can meets the needs of performance engineers of different levels',
+        description: 'EasyView is easy to install, use, and customize. It can meet the needs of performance engineers of different levels',
         icon: AcademicCapIcon,
     },
     {
