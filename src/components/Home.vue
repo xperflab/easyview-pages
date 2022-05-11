@@ -303,7 +303,7 @@ const features = [
     },
     {
         name: 'Efficient',
-        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a ~50x speedup over PProf.',
+        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a \~50x speedup over PProf.',
         icon: ClipboardCheckIcon,
     },
     {
