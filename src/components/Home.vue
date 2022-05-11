@@ -176,6 +176,7 @@
                     </div>
                 </div>
 
+
                 <!-- Blogs section -->
                 <div id="Blogs" class="relative bg-gray-50 py-20">
                     <div class="relative">
@@ -276,7 +277,7 @@ const navigation = [
 const intro = {
     h1: 'Analyzer and Visualizer',
     h2: 'for Performance Tools',
-    p1: 'Support widely used pprof format and more.',
+    p1: 'Support many formats: pprof, JSon, and more.',
     p2: 'Available as a vscode extension.',
 }
 
@@ -288,12 +289,12 @@ const features = [
     },
     {
         name: 'General',
-        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers. EasyView designs general data representation, supports general analysis, and presents profiles in general views.',
+        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers.',
         icon: GlobeAltIcon,
     },
     {
         name: 'Portable',
-        description: 'EasyView is implemented with web front techniques, which is portable on different platforms such as Linux, Windows, and macOS. EasyView can be easily integrated into IDEs or code editors as an plugin/extension. Currently EasyView is available in vscode extension market for free download.',
+        description: 'EasyView is implemented with web front techniques, which is portable on different platforms and can be easily integrated into IDEs or code editors as an plugin/extension.',
         icon: AdjustmentsIcon,
     },
     {
@@ -303,7 +304,7 @@ const features = [
     },
     {
         name: 'Efficient',
-        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a ~50x speedup over PProf.',
+        description: 'EasyView is super efficient. It handles profilers of Gigabytes and is significantly faster than existing solutions. For example, it shows a \~50x speedup over PProf.',
         icon: ClipboardCheckIcon,
     },
     {
