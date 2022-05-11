@@ -288,12 +288,12 @@ const features = [
     },
     {
         name: 'General',
-        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers. EasyView designs general data representation, supports general analysis, and presents profiles in general views.',
+        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers.',
         icon: GlobeAltIcon,
     },
     {
         name: 'Portable',
-        description: 'EasyView is implemented with web front techniques, which is portable on different platforms such as Linux, Windows, and macOS. EasyView can be easily integrated into IDEs or code editors as an plugin/extension. Currently EasyView is available in vscode extension market for free download.',
+        description: 'EasyView is implemented with web front techniques, which is portable on different platforms and can be easily integrated into IDEs or code editors as an plugin/extension.',
         icon: AdjustmentsIcon,
     },
     {
