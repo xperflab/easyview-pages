@@ -176,11 +176,11 @@
                     </div>
                 </div>
 
-                <!-- Blog section -->
-                <div id="Blog" class="relative bg-gray-50 py-20">
+                <!-- Blogs section -->
+                <div id="Blogs" class="relative bg-gray-50 py-20">
                     <div class="relative">
                         <div class="text-center mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-                            <h2 class="font-sans text-3xl font-bold tracking-wider text-[#4a247c] uppercase">Blog</h2>
+                            <h2 class="font-sans text-3xl font-bold tracking-wider text-[#4a247c] uppercase">Blogs</h2>
                         </div>
                         <div
                             class="mt-8 mx-auto max-w-md px-4 grid gap-8 sm:max-w-lg sm:px-6 lg:px-8 lg:grid-cols-3 lg:max-w-7xl">
@@ -270,7 +270,7 @@ import { ChevronRightIcon, ExternalLinkIcon } from '@heroicons/vue/solid'
 const navigation = [
     { name: 'Demo', href: '#Demo' },
     { name: 'Features', href: '#Features' },
-    { name: 'Blog', href: '#Blog' }
+    { name: 'Blogs', href: '#Blogs' }
 ]
 
 const intro = {
