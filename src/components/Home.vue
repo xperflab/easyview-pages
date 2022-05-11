@@ -279,14 +279,14 @@ const intro = {
 
 const features = [
     {
-        name: 'General',
-        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers. EasyView designs general data representation, supports general analysis, and presents profiles in general views.',
+        name: 'Easy',
+        description: 'EasyView is easy to install, use, and customize. It can meets the needs of performance engineers of different levels',
         icon: GlobeAltIcon,
     },
     {
-        name: 'Efficient',
-        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a ~50x speedup over PProf.',
-        icon: AdjustmentsIcon,
+        name: 'General',
+        description: 'EasyView is not designed for supporting specific profilers. Instead, it aims to provide a general solution that widely supports a broad range of profilers. EasyView designs general data representation, supports general analysis, and presents profiles in general views.',
+        icon: GlobeAltIcon,
     },
     {
         name: 'Portable',
@@ -297,8 +297,17 @@ const features = [
         name: 'Private',
         description: 'EasyView analyzes and visualizes performance data locally without uploading data to a remote server, which minimizes the security and privacy concerns.',
         icon: ShieldCheckIcon,
-    } 
-     
+    }
+    {
+        name: 'Efficient',
+        description: 'EasyView is super efficient. It handles profilers of Gigabytes. Its analysis and visualization are significantly faster than existing solutions. For example, it shows a ~50x speedup over PProf.',
+        icon: AdjustmentsIcon,
+    },
+    {
+        name: 'Intelligent',
+        description: 'EasyView can easility integrate various data mining and machine learning models to analyze profiles and correlate the analysis results with source code.',
+        icon: ShieldCheckIcon,
+    }      
 ]
 const blogPosts = [
     {
