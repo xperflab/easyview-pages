@@ -271,10 +271,10 @@ const navigation = [
 ]
 
 const intro = {
-    h1: 'General Visualizer',
+    h1: 'Analyzer and Visualizer',
     h2: 'for Performance Tools',
-    p1: 'Supports widely used pprof format.',
-    p2: 'Available as an extension of vscode at vscode market.',
+    p1: 'Support widely used pprof format and more.',
+    p2: 'Available as a vscode extension.',
 }
 
 const features = [
