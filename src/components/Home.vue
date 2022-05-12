@@ -294,7 +294,7 @@ const features = [
     },
     {
         name: 'Portable',
-        description: 'EasyView is implemented with web front techniques, which is portable on different platforms and can be easily integrated into IDEs or code editors as an plugin/extension.',
+        description: 'EasyView is implemented with web frontend techniques, which is portable on different platforms and can be integrated into IDEs as an plugin/extension.',
         icon: AdjustmentsIcon,
     },
     {
